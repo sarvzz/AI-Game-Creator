@@ -5,6 +5,10 @@
 3. **Ensure AI safety**: Implement content moderation and compliance systems using tools like Llama Guard.
 4. **Optimize AI performance**: Practice techniques to enhance efficiency while keeping operational costs low.
 
+<div align="center">
+  <img src="output/gameUI.png" alt="Game UI" width="600">
+</div>
+
 ---
 ### 1. **Hierarchical Content Generation**
    - Build game worlds through prompt engineering.
